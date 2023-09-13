@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int bidding()
 {
     int n_person, tmp_bid=0;
     string tmp_name = "NONE";
