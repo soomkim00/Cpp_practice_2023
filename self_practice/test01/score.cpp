@@ -19,4 +19,4 @@ char Get_strip(int x_val) {
             return g[i];
         }
     }
-}S
+}
